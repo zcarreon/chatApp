@@ -16,6 +16,17 @@
   "homepage": "https://github.com/zcarreon/chatApp",
   "dependencies": {
     "express": "^4.16.2",
+<<<<<<< HEAD
     "grunt": "^1.0.1"
+=======
+    "ruby": "^0.6.1",
+    "sass": "^1.0.0-beta.5.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+>>>>>>> dev.zpc.addingMoreStuff
   }
 }

@@ -1,2 +1,7 @@
 /node_modules
 .ds_store
+<<<<<<< HEAD
+=======
+.sass-cache
+/.git
+>>>>>>> dev.zpc.addingMoreStuff
